@@ -1,0 +1,1504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/macbookpro/Documents/web dev/ch 3/ch 3 assignment/advantage.html",
+			"settings":
+			{
+				"buffer_size": 607,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "advantage.html"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAXwIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "leuel"
+					},
+					"BgAAACoCAAAAAAAAKwIAAAAAAAAAAAAAKwIAAAAAAAArAgAAAAAAABYAAAB5b3VyX2VtYWlsQGV4YW1wbGUuY29tKwIAAAAAAAAsAgAAAAAAAAAAAAAsAgAAAAAAAC0CAAAAAAAAAAAAAC0CAAAAAAAALgIAAAAAAAAAAAAALgIAAAAAAAAvAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKgIAAAAAAABAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "tesfaye@"
+					},
+					"CAAAAC8CAAAAAAAAMAIAAAAAAAAAAAAAMAIAAAAAAAAxAgAAAAAAAAAAAAAxAgAAAAAAADICAAAAAAAAAAAAADICAAAAAAAAMwIAAAAAAAAAAAAAMwIAAAAAAAA0AgAAAAAAAAAAAAA0AgAAAAAAADUCAAAAAAAAAAAAADUCAAAAAAAANgIAAAAAAAAAAAAANgIAAAAAAAA3AgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAADcCAAAAAAAAOAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "mail.com"
+					},
+					"CAAAADgCAAAAAAAAOQIAAAAAAAAAAAAAOQIAAAAAAAA6AgAAAAAAAAAAAAA6AgAAAAAAADsCAAAAAAAAAAAAADsCAAAAAAAAPAIAAAAAAAAAAAAAPAIAAAAAAAA9AgAAAAAAAAAAAAA9AgAAAAAAAD4CAAAAAAAAAAAAAD4CAAAAAAAAPwIAAAAAAAAAAAAAPwIAAAAAAABAAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAOAIAAAAAAAA4AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "body {\n    background-color: white;\n    color: #000099;\n    font-family: Arial, Helvetica, sans-serif;\n}\n\na {\n    background-color: #CCCCCC;\n}\n\nh1 {\n    font-family: \"Times New Roman\", serif;\n    color: black;\n}\n\n.news {\n    color: red;\n    font-style: italic;\n}\n",
+			"file": "/Users/macbookpro/Documents/web dev/ch 3/assignment/ex8.css",
+			"file_size": 263,
+			"file_write_time": 133829120146362192,
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix",
+				"name": "ex8.css"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "file"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAMAAAAAAAAAAwAAAAAAAAABAAAAZQIAAAAAAAAAAgAAAAAAAAABAAAAbAEAAAAAAAAAAQAAAAAAAAABAAAAaQAAAAAAAAAAAAAAAAAAAAABAAAAZg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "file"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAMAAAAAAAAAAwAAAAAAAAABAAAAZQIAAAAAAAAAAgAAAAAAAAABAAAAbAEAAAAAAAAAAQAAAAAAAAABAAAAaQAAAAAAAAAAAAAAAAAAAAABAAAAZg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "rename"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAUAAAAAAAAABQAAAAAAAAABAAAAZQQAAAAAAAAABAAAAAAAAAABAAAAbQMAAAAAAAAAAwAAAAAAAAABAAAAYQIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAAZQAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAABwEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>CSS Advantages</title>\n    <link rel=\"stylesheet\" href=\"ex8.css\">\n</head>\n<body>\n    <h1 style=\"color: red;\">CSS Advantages</h1>\n    <ul>\n        <li>Easy to maintain styles across multiple pages</li>\n        <li class=\"news\">Reduces redundancy by separating structure and style</li>\n        <li>Improves page load times by reusing style sheets</li>\n    </ul>\n    <a href=\"https://www.w3.org\">W3C</a>\n    <a href=\"mailto:leueltesfaye@gmail.com\">Email me</a>\n</body>\n</html>\n",
+			"file": "/Users/macbookpro/Documents/web dev/ch 3/ch 3 assignment/advantage2.html",
+			"file_size": 627,
+			"file_write_time": 133829123990361235,
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix",
+				"name": "advantage2.html"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAcwIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "ltesf"
+					},
+					"BgAAAD4CAAAAAAAAPwIAAAAAAAAAAAAAPwIAAAAAAAA/AgAAAAAAABYAAAB5b3VyX2VtYWlsQGV4YW1wbGUuY29tPwIAAAAAAABAAgAAAAAAAAAAAABAAgAAAAAAAEECAAAAAAAAAAAAAEECAAAAAAAAQgIAAAAAAAAAAAAAQgIAAAAAAABDAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgIAAAAAAABUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "ayee"
+					},
+					"BAAAAEMCAAAAAAAARAIAAAAAAAAAAAAARAIAAAAAAABFAgAAAAAAAAAAAABFAgAAAAAAAEYCAAAAAAAAAAAAAEYCAAAAAAAARwIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAQwIAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEYCAAAAAAAARgIAAAAAAAABAAAAZQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAARwIAAAAAAABHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "@mail."
+					},
+					"BgAAAEYCAAAAAAAARwIAAAAAAAAAAAAARwIAAAAAAABIAgAAAAAAAAAAAABIAgAAAAAAAEkCAAAAAAAAAAAAAEkCAAAAAAAASgIAAAAAAAAAAAAASgIAAAAAAABLAgAAAAAAAAAAAABLAgAAAAAAAEwCAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAARgIAAAAAAABGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "lips"
+					},
+					"BAAAAEwCAAAAAAAATQIAAAAAAAAAAAAATQIAAAAAAABOAgAAAAAAAAAAAABOAgAAAAAAAE8CAAAAAAAAAAAAAE8CAAAAAAAAUAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATAIAAAAAAABMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "comb"
+					},
+					"BAAAAFACAAAAAAAAUQIAAAAAAAAAAAAAUQIAAAAAAABSAgAAAAAAAAAAAABSAgAAAAAAAFMCAAAAAAAAAAAAAFMCAAAAAAAAVAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUAIAAAAAAABQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					12,
+					"left_delete",
+					null,
+					"DAAAAFMCAAAAAAAAUwIAAAAAAAABAAAAYlICAAAAAAAAUgIAAAAAAAABAAAAbVECAAAAAAAAUQIAAAAAAAABAAAAb1ACAAAAAAAAUAIAAAAAAAABAAAAY08CAAAAAAAATwIAAAAAAAABAAAAc04CAAAAAAAATgIAAAAAAAABAAAAcE0CAAAAAAAATQIAAAAAAAABAAAAaUwCAAAAAAAATAIAAAAAAAABAAAAbEsCAAAAAAAASwIAAAAAAAABAAAALkoCAAAAAAAASgIAAAAAAAABAAAAbEkCAAAAAAAASQIAAAAAAAABAAAAaUgCAAAAAAAASAIAAAAAAAABAAAAYQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVAIAAAAAAABUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					9,
+					"left_delete",
+					null,
+					"CQAAAEcCAAAAAAAARwIAAAAAAAABAAAAbUYCAAAAAAAARgIAAAAAAAABAAAAQEUCAAAAAAAARQIAAAAAAAABAAAAZUQCAAAAAAAARAIAAAAAAAABAAAAeUMCAAAAAAAAQwIAAAAAAAABAAAAYUICAAAAAAAAQgIAAAAAAAABAAAAZkECAAAAAAAAQQIAAAAAAAABAAAAc0ACAAAAAAAAQAIAAAAAAAABAAAAZT8CAAAAAAAAPwIAAAAAAAABAAAAdA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASAIAAAAAAABIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "eueltesfay"
+					},
+					"CgAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAABBAgAAAAAAAEICAAAAAAAAAAAAAEICAAAAAAAAQwIAAAAAAAAAAAAAQwIAAAAAAABEAgAAAAAAAAAAAABEAgAAAAAAAEUCAAAAAAAAAAAAAEUCAAAAAAAARgIAAAAAAAAAAAAARgIAAAAAAABHAgAAAAAAAAAAAABHAgAAAAAAAEgCAAAAAAAAAAAAAEgCAAAAAAAASQIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "e@gma"
+					},
+					"BQAAAEkCAAAAAAAASgIAAAAAAAAAAAAASgIAAAAAAABLAgAAAAAAAAAAAABLAgAAAAAAAEwCAAAAAAAAAAAAAEwCAAAAAAAATQIAAAAAAAAAAAAATQIAAAAAAABOAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASQIAAAAAAABJAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "il."
+					},
+					"AwAAAE4CAAAAAAAATwIAAAAAAAAAAAAATwIAAAAAAABQAgAAAAAAAAAAAABQAgAAAAAAAFECAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATgIAAAAAAABOAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "com"
+					},
+					"AwAAAFECAAAAAAAAUgIAAAAAAAAAAAAAUgIAAAAAAABTAgAAAAAAAAAAAABTAgAAAAAAAFQCAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUQIAAAAAAABRAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAD8CAAAAAAAAQAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD8CAAAAAAAAPwIAAAAAAAABAAAALA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAQAIAAAAAAABAAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/macbookpro/Documents/web dev/ch1&2/ch1&2 assignment/band.html",
+			"settings":
+			{
+				"buffer_size": 1131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "band.html"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "rename"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					8,
+					"left_delete",
+					null,
+					"BgAAAAUAAAAAAAAABQAAAAAAAAABAAAAZQQAAAAAAAAABAAAAAAAAAABAAAAbQMAAAAAAAAAAwAAAAAAAAABAAAAYQIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAAZQAAAAAAAAAAAAAAAAAAAAABAAAAcg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAawQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "/* exercise7.css */\nfooter {\n    background-color: lightblue;\n    font-family: Arial, sans-serif;\n    color: darkblue;\n    padding: 10px;\n    border: 1px dashed darkblue;\n}\n\n#notice {\n    width: 80%;\n    margin: 0 auto;\n    text-align: center;\n}\n\n.headline {\n    border-bottom: 2px dotted #ff6600;\n    color: #ff6600;\n    font-size: 1.5em;\n}\n\nh1 {\n    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);\n    background-color: rgba(255, 255, 255, 0.5);\n    font-family: sans-serif;\n    font-size: 4em;\n}\n\n#section {\n    font-size: small;\n    color: red;\n    font-family: Arial, sans-serif;\n    background-color: white;\n    width: 80%;\n    box-shadow: 3px 3px 5px gray;\n    padding: 10px;\n}\n\n/* modexercise7.css */\na:link { color: blue; background-color: transparent; }\na:visited { color: purple; background-color: transparent; }\na:hover { color: red; background-color: transparent; text-decoration: none; }\n",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Unix",
+				"name": "/* exercise7.css */"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAgwMAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "/* yourlastname.html */\n<!DOCTYPE html>\n<html>\n<head>\n    <title>About Me</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"exercise7.css\">\n</head>\n<body>\n    <h1>Leuel Tesfaye</h1>\n    <div id=\"section\">\n        <p>My favorite hobbies include coding, reading, and playing video games.</p>\n    </div>\n    <img src=\"images/yourphoto.jpg\" alt=\"Your Photo\">\n    <p class=\"headline\">A caption describing your photo.</p>\n    <progress value=\"25\" max=\"100\">25%</progress>\n    <footer>\n        &copy; 2025 Leuel Tesfaye\n    </footer>\n</body>\n</html>\n\n/* mylinks.html */\n<!DOCTYPE html>\n<html>\n<head>\n    <title>My Favorite Hobbies</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"modexercise7.css\">\n</head>\n<body>\n    <h1>My Favorite Hobbies</h1>\n    <ul>\n        <li><a href=\"https://www.example.com/coding\">Coding</a></li>\n        <li><a href=\"https://www.example.com/reading\">Reading</a></li>\n        <li><a href=\"https://www.example.com/gaming\">Gaming</a></li>\n    </ul>\n    <footer>\n        &copy; 2025 Your Name\n    </footer>\n</body>\n</html>\n\n/* myhobby.html */\n<!DOCTYPE html>\n<html>\n<head>\n    <title>My Hobby: Coding</title>\n    <style>\n        body { font-family: Arial, sans-serif; }\n        h1 { color: darkblue; }\n        p { font-size: 1.2em; }\n    </style>\n</head>\n<body>\n    <h1>Coding</h1>\n    <img src=\"images/coding.jpg\" alt=\"Coding Hobby\">\n    <p>I love coding because it allows me to build amazing projects and solve problems.</p>\n    <p>Check out more about coding <a href=\"https://www.example.com/coding\">here</a>.</p>\n    <footer>\n        Contact me at <a href=\"mailto:yourname@example.com\">yourname@example.com</a>\n    </footer>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Unix",
+				"name": "/* yourlastname.html */"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAhgYAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					4,
+					"left_delete",
+					null,
+					"BAAAAPkBAAAAAAAA+QEAAAAAAAABAAAAcvgBAAAAAAAA+AEAAAAAAAABAAAAdfcBAAAAAAAA9wEAAAAAAAABAAAAb/YBAAAAAAAA9gEAAAAAAAABAAAAWQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA+gEAAAAAAAD6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPYBAAAAAAAA9gEAAAAAAAABAAAAbA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "Leuel"
+					},
+					"BQAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA9wEAAAAAAAD4AQAAAAAAAAAAAAD4AQAAAAAAAPkBAAAAAAAAAAAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA+gEAAAAAAAD7AQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "Tesfaye"
+					},
+					"CAAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA/QEAAAAAAAD9AQAAAAAAAAQAAABOYW1l/QEAAAAAAAD+AQAAAAAAAAAAAAD+AQAAAAAAAP8BAAAAAAAAAAAAAP8BAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAICAAAAAAAAAAAAAAICAAAAAAAAAwIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAIAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AgAAAKoAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC3AAAAAAAAAAkAAABZb3VyIE5hbWU",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAqgAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "<!-- newform.html -->\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>New Form</title>\n</head>\n<body>\n  <form action=\"https://webdevbasics.net/scripts/demo.php\" method=\"post\">\n    <!-- a) Text box -->\n    <label for=\"username\">Username:</label>\n    <input type=\"text\" name=\"username\" maxlength=\"30\"><br><br>\n\n    <!-- b) Radio buttons -->\n    <fieldset>\n      <legend>Favorite Day of the Week</legend>\n      <input type=\"radio\" name=\"favday\" value=\"Monday\"> Monday<br>\n      <input type=\"radio\" name=\"favday\" value=\"Friday\"> Friday<br>\n      <input type=\"radio\" name=\"favday\" value=\"Sunday\"> Sunday<br>\n    </fieldset><br>\n\n    <!-- c) Select list -->\n    <label for=\"social\">Favorite Social Network:</label>\n    <select name=\"social\">\n      <option>Instagram</option>\n      <option>Facebook</option>\n      <option>Twitter</option>\n      <option>LinkedIn</option>\n    </select><br><br>\n\n    <!-- d) Shipping Address -->\n    <fieldset>\n      <legend>Shipping Address</legend>\n      Address Line 1: <input type=\"text\" name=\"address1\"><br>\n      Address Line 2: <input type=\"text\" name=\"address2\"><br>\n      City: <input type=\"text\" name=\"city\"><br>\n      State: <input type=\"text\" name=\"state\"><br>\n      Zip: <input type=\"text\" name=\"zip\"><br>\n    </fieldset><br>\n\n    <!-- e) Image button -->\n    <input type=\"image\" src=\"signup.gif\" alt=\"Sign Up\" width=\"100\"><br><br>\n\n    <!-- f) Hidden input -->\n    <input type=\"hidden\" name=\"userid\" value=\"abc123\">\n\n    <!-- g) Password box -->\n    <label for=\"pword\">Password:</label>\n    <input type=\"password\" name=\"pword\"><br><br>\n\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</body>\n</html>\n\n<!-- musicform.html -->\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Music Survey</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      margin: 20px;\n    }\n    form {\n      background: #f2f2f2;\n      padding: 20px;\n      border-radius: 5px;\n    }\n    fieldset {\n      margin-bottom: 15px;\n    }\n    footer {\n      margin-top: 20px;\n      font-size: 14px;\n    }\n  </style>\n</head>\n<body>\n  <h2>Music Listening Survey</h2>\n  <form>\n    <label for=\"name\">Name:</label>\n    <input type=\"text\" name=\"name\"><br><br>\n\n    <label for=\"email\">Email:</label>\n    <input type=\"email\" name=\"email\"><br><br>\n\n    <label for=\"comments\">Why do you like music?</label><br>\n    <textarea name=\"comments\" cols=\"60\" rows=\"3\"></textarea><br><br>\n\n    <fieldset>\n      <legend>Favorite Genre</legend>\n      <input type=\"radio\" name=\"genre\" value=\"pop\"> Pop<br>\n      <input type=\"radio\" name=\"genre\" value=\"rock\"> Rock<br>\n      <input type=\"radio\" name=\"genre\" value=\"jazz\"> Jazz<br>\n    </fieldset>\n\n    <label for=\"artists\">Favorite Artist:</label><br>\n    <select name=\"artists\" size=\"3\">\n      <option>Taylor Swift</option>\n      <option>Drake</option>\n      <option>Adele</option>\n      <option>Ed Sheeran</option>\n    </select><br><br>\n\n    <label for=\"listendate\">When did you last listen to music?</label>\n    <input type=\"date\" name=\"listendate\"><br><br>\n\n    <input type=\"submit\" value=\"Submit\">\n    <input type=\"reset\" value=\"Reset\">\n  </form>\n\n  <footer>\n    <p>Created by [Your Name] – [Your Email]</p>\n  </footer>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 3241,
+				"line_ending": "Unix",
+				"name": "<!-- newform.html -->"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAqQwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "footer {\n  background-color: lightblue;\n  font-family: Arial, sans-serif;\n  color: darkblue;\n  padding: 10px;\n  border: 1px dashed darkblue;\n}\n\n#notice {\n  width: 80%;\n  margin: 0 auto;\n}\n\n.headline {\n  border-bottom: 2px dotted #cc33ff;\n  color: #cc33ff;\n  font-size: 1.5em;\n}\n\nh1 {\n  font-size: 4em;\n  font-family: sans-serif;\n  background-color: rgba(255, 255, 255, 0.5);\n  text-shadow: 2px 2px 5px gray;\n}\n\n#section {\n  font-size: small;\n  color: red;\n  font-family: Arial, sans-serif;\n  background-color: white;\n  width: 80%;\n  box-shadow: 2px 2px 5px gray;\n  padding: 10px;\n}\n",
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix",
+				"name": "exercise7.css"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAiQwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					3,
+					"left_delete",
+					null,
+					"AwAAAKMIAAAAAAAAowgAAAAAAADmAwAAIGh5cGVybGluawpIeXBlcmxpbmsgd2l0aCBhIG1vdXNlIHBvaW50ZXIgcGFzc2luZyBvdmVyIGl0ClZpc2l0ZWQgaHlwZXJsaW5rICAKVXNlIGV4dGVybmFsIENTUyB0byBjb25maWd1cmUgdGhlIGh5cGVybGlua3MgdW5kZXJsaW5lIHRvIG5vdCBkaXNwbGF5IHdoZW4gdGhlIG1vdXNlIHBvaW50ZXIgaXMgcGFzc2luZyBvdmVyIGl0IGFuZCBzYXZlIGFzIG1vZGV4ZXJjaXNlNy5jc3MKU2F2ZSB0aGUgd2ViIHBhZ2UgYXMgbXlsaW5rcy5odG1sCiAKCigjMTApICAgTW9kaWZ5IHlvdXIgcGVydmlvdXMgd2ViIHBhZ2UgKHlvdXJsYXN0bm1hZS5odG1sKSBieSBpbmNsdWRpbmcgdGhlIGZvbGxvd2luZyBzdGVwcyBhYm91dCBvbmUgb2YgeW91ciBmYXZvcml0ZSBob2JiaWVzOgoKQSBwaG90byB0aGF0IGNvcnJlc3BvbmQgdG8geW91ciBob2JieQpXcml0ZSBhIGhlYWRpbmcgZm9yIHlvdXIgcGFnZQpXcml0ZSBvbmUgb3IgdHdvIGJyaWVmIHBhcmFncmFwaHMgYWJvdXQgdGhlIGhvYmJ5ClRoZSBwYWdlIG11c3QgdXNlIHZhbGlkIEhUTUw1IHN5bnRheCBhbmQgaW5jbHVkZSB0aGUgZm9sbG93aW5nIEhUTUwgZWxlbWVudHM6CkluY2x1ZGUgYSBoeXBlcmxpbmsgdG8gYSB3ZWJzaXRlIHRoYXQgaXMgcmVsZXZhbnQgdG8gdGhlIGhvYmJ5CkluY2x1ZGUgeW91ciBuYW1lIGluIGFuIGUtbWFpbCBhZGRyZXNzIGluIHRoZSBwYWdlIGZvb3RlciBhcmVhCkNvbmZpZ3VyZSB0aGUgdGV4dCwgY29sb3IsIGFuZCBsYXlvdXQgd2l0aCBlbWJlZGRlZCBDU1MKU2F2ZSB0aGUgZmlsZSBhcyBteWhvYmJ5Lmh0bWwKClRoZXJlIHNob3VsZCBiZSBhIHRvdGFsIG9mIDMgaHRtbCBmaWxlcyB3LyByZXNwZWN0aXZlIGltYWdlcy4gKG15bGlua3MuaHRtbCwgbXlob2JieS5odG1sLCBtb2RFeGVyY2lzZTcuY3NzKQoKVXNlIHRoZSBzdHJ1Y3R1cmUgc2ltaWxhciB0byB0aGUgZm9sbG93aW5nOiBodHRwczovL1tnaXRodWJsb2NhdGlvbl0vW3lvdXJuYW1lXS9DaDYvQ2g2RXhlcmNpc2WiCAAAAAAAAKIIAAAAAAAAAQAAAGShCAAAAAAAAKEIAAAAAAAAAQAAAGU",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIkMAAAAAAAAowgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAChCAAAQ2hhcHRlciA0LiBIYW5kcyBvbiBFeGVyY2lzZSAjNyAmICM4IChTbGlnaHRseSBtb2RpZmllZC4gUGxlYXNlIHJlYWQgY2FyZWZ1bGx5KToKClByYWN0aWNlIHdpdGggdGhlIENTUyBhbmQgR3JhcGhpY3MuIEluIHRoaXMgZXhlcmNpc2UsIHlvdSB3aWxsIGNyZWF0ZSBvbmUgKDEpIC5jc3MgZmlsZSBhcyBpZGVudGlmaWVkIGluIFNlY3Rpb24gQSBhbmQgb25lICgxKSB3ZWIgcGFnZSBhYm91dCB5b3UgYXMgaWRlbnRpZmllZCBpbiBTZWN0aW9uIEIuIFV0aWxpemUgdGhlIENTUyAodGhlIGNvbG9ycyBhbmQgZm9udHMgaW5mb3JtYXRpb24gZG9lcyBub3QgaGF2ZSB0byBiZSBleGFjdCkgaW4gIzcgdG8gY29uZmlndXJlIHRoZSB3ZWIgcGFnZSBhYm91dCB5b3UgaW4gIzguIAoKU2VjdGlvbiBBICgjNyk6ClByYWN0aWNlIHdpdGggQ1NTCgpXcml0ZSB0aGUgQ1NTIGZvciBhbiBIVE1MIHNlbGVjdG9yIGZvb3RlciB3aXRoIHRoZSBmb2xsb3dpbmcgY2hhcmFjdGVyaXN0aWNzOiBhIGxpZ2h0IGJsdWUgYmFja2dyb3VuZCBjb2xvciwgQXJpYWwgZm9udCwgZGFyay1ibHVlIHRleHQgY29sb3IsIDEwIHBpeGVscyBvZiBwYWRkaW5nLCBhbmQgYSBuYXJyb3csIGRhc2hlZCBib3JkZXIgaW4gYSBkYXJrLWJsdWUgY29sb3IuCldyaXRlIHRoZSBDU1MgZm9yIGFuIGlkIG5hbWVkIG5vdGljZSB0aGF0IGlzIGNvbmZpZ3VyZWQgdG8gODAlIHdpZHRoIGFuZCBjZW50ZXJlZC4KV3JpdGUgdGhlIENTUyB0byBjb25maWd1cmUgYSBjbGFzcyB0aGF0IHdpbGwgcHJvZHVjZSBhIGhlYWRsaW5lIHdpdGggYSBkb3R0ZWQgbGluZSB1bmRlcm5lYXRoIGl0LiBDaG9zc2UgYSBjb2xvciB0aGF0IHlvdSBsaWtlIGZvciB0aGUgdGV4dCBhbmQgZG90dGVkIGxpbmUuCldyaXRlIHRoZSBDU1MgdG8gY29uZmlndXJlIGFuIGgxIGVsZW1lbnQgc2VsZWN0b3Igd2l0aCBkcm9wLXNoYWRvdyB0ZXh0LCBhIDUwJSB0cmFuc3BhcmVudCBiYWNrZ3JvdW5kIGNvbG9yLCBhbmQgc2Fucy1zZXJpZiBmb250IHRoYXQgaXMgNGVtIGluIHNpemUuCldyaXRlIHRoZSBDU1MgdG8gY29uZmlndXJlIGFuIGlkIG5hbWVkIHNlY3Rpb24gd2l0aCBzbWFsbCwgcmVkLCBBcmlhbCBmb250OyBhIHdpdGggYmFja2dyb3VuZDsgYSB3aWR0aCBvZiA4MCU7IGFuZCBhIGRyb3Agc2hhZG93LgoKU2VjdGlvbiBCICgjOCk6CgpEZXNpZ24gYSBuZXcgd2ViIHBhZ2UgYWJvdXQgeW91LiBVc2UgQ1NTIGZyb20gIzcgdG8gY29uZmlndXJlIHRoZSBiYWNrZ3JvdW5kIGNvbG9yIGFuZCB0ZXh0IGNvbG9yIGZvciB0aGUgcGFnZS4gSW5jbHVkZSB0aGUgZm9sbG93aW5nIG9uIHlvdXIgd2ViIHBhZ2U6CgpZb3VyIG5hbWUgKHdpdGggaDEgdGFnKQpBIGRlc2NyaXB0aW9uIG9mIHlvdXIgZmF2b3JpdGUgaG9iYmllcyBhbmQgYWN0aXZpdGllcwpBIHBob3RvIG9mIHlvdXJzZWxmIChiZSBzdXJlIHRvIG9wdGltaXplIHRoZSBpbWFnZSBmb3IgZGlzcGxheSBvbiB0aGUgd2ViKS4gQXBwbHkgYW4gaW1hZ2UgY2FwdGlvbiwgc2ltaWxhciB0byBIYW5kLU9uIFByYWN0aWNlIDQuNSBvbiBwYWdlIDE0NS4gUGxhY2UgeW91ciBpbWFnZXMgaW4gYSBjaGlsZCBmb2xkZXIuCkEgUHJvZ3Jlc3MgSFRNTDUgRWxlbWVudCB0aGF0IGlkZW50aWZpZXMgaWYgeW91IGFyZSBhIEZyZXNobWFuIDUlLCBTb3Bob21vcmUgMjUlLCBKdW5pb3IgNzUlLCBhbmQgU2VuaW9yIDk1JSAoRm91bmQgb24gcGFnZSAxNTEpCkZvb3RlciBjb3B5cmlnaHQgaW5mb3JtYXRpb24KU2F2ZSB0aGUgd2ViIHBhZ2UgYXMgeW91cmxhc3RuYW1lLmh0bWwKCgoKQ2hhcHRlciA2LiBIYW5kcy1PbiBFeGVyY2lzZSAjOSAmICMxMCAoU2xpZ2h0bHkgbW9kaWZpZWQuIFBsZWFzZSByZWFkIGNhcmVmdWxseSk6CgpJbiB0aGlzIGV4ZXJjaXNlLAoKWW91IHdpbGwgbW9kaWZ5IHlvdXIgaHRtbCBmaWxlIHRoYXQgd2FzIGNyZWF0ZWQgc2F2ZWQgYXMgeW91cmxhc3RuYW1lLmh0bWwKWW91IHdpbGwgbW9kaWZ5IHlvdXIgQ1NTIGZpbGUgdGhhdCB3YXMgc2F2ZWQgYXMgZXhlcmNpc2U3LmNzcwogCgooIzkpICAgICBNb2RpZnkgeW91ciBwcmV2aW91cyB3ZWIgcGFnZSAoeW91cmxhc3RubWFlLmh0bWwpIGJ5IGluY2x1ZGluZyB0aGUgZm9sbG93aW5nIHN0ZXBzOgpVbm9yZGVyZWQgbGlzdCBvZiBoeXBlcmxpbmtzIHRvIHlvdXIgZmF2b3JpdGUgaG9iYmllcwpDaG9vc2UgYmFja2dyb3VuZCBjb2xvciBmb3IKVW52aXNpdA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKEIAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAARgIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Your Name</title>\n  <link rel=\"stylesheet\" href=\"exercise7.css\">\n</head>\n<body>\n  <h1>Your Name</h1>\n\n  <div id=\"section\">\n    <p>I enjoy hiking, coding, playing soccer, and reading mystery novels.</p>\n  </div>\n\n  <figure>\n    <img src=\"images/yourphoto.jpg\" alt=\"Photo of me\" width=\"300\">\n    <figcaption>This is me enjoying one of my hobbies!</figcaption>\n  </figure>\n\n  <p><strong>Academic Progress:</strong></p>\n  <progress value=\"25\" max=\"100\">25%</progress>\n\n  <footer>\n    &copy; 2025 Your Name\n  </footer>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Unix",
+				"name": "yourlastname.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAXAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "a:link {\n  color: navy;\n  background-color: #f0f8ff;\n}\n\na:visited {\n  color: purple;\n}\n\na:hover {\n  color: green;\n  text-decoration: none;\n}\n",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix",
+				"name": "modExercise7.css"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAjQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>My Links</title>\n  <link rel=\"stylesheet\" href=\"modExercise7.css\">\n</head>\n<body>\n  <h1>My Hobbies</h1>\n  <ul>\n    <li><a href=\"https://www.codecademy.com/\">Coding</a></li>\n    <li><a href=\"https://www.hikingproject.com/\">Hiking</a></li>\n    <li><a href=\"https://www.goodreads.com/\">Reading</a></li>\n    <li><a href=\"https://www.fifa.com/\">Soccer</a></li>\n  </ul>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Unix",
+				"name": "mylinks.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAxgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Coding Hobby</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      color: #333;\n      background-color: #e6f7ff;\n      padding: 20px;\n    }\n\n    h1 {\n      color: #0066cc;\n    }\n\n    img {\n      width: 300px;\n      box-shadow: 2px 2px 8px gray;\n    }\n\n    footer {\n      margin-top: 40px;\n      font-size: small;\n    }\n  </style>\n</head>\n<body>\n  <h1>Why I Love Coding</h1>\n  <img src=\"images/coding.jpg\" alt=\"Coding on a laptop\">\n  <p>I started coding when I was in middle school. I enjoy solving problems and creating fun websites and games.</p>\n  <p>It also helps me learn how technology works and opens the door to many career opportunities.</p>\n  <p>Check out more about coding at <a href=\"https://www.codecademy.com/\">Codecademy</a>.</p>\n\n  <footer>\n    Contact me at: <a href=\"mailto:yourname@example.com\">yourname@example.com</a>\n  </footer>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Unix",
+				"name": "myhobby.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAvwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "/Ch6/\n├── yourlastname.html\n├── mylinks.html\n├── myhobby.html\n├── exercise7.css\n├── modExercise7.css\n└── /images/\n    ├── yourphoto.jpg\n    └── coding.jpg\n\n",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAvwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACbAAAAAAAAAL4DAAA8IURPQ1RZUEUgaHRtbD4KPGh0bWwgbGFuZz0iZW4iPgo8aGVhZD4KICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgPHRpdGxlPkNvZGluZyBIb2JieTwvdGl0bGU+CiAgPHN0eWxlPgogICAgYm9keSB7CiAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgY29sb3I6ICMzMzM7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlNmY3ZmY7CiAgICAgIHBhZGRpbmc6IDIwcHg7CiAgICB9CgogICAgaDEgewogICAgICBjb2xvcjogIzAwNjZjYzsKICAgIH0KCiAgICBpbWcgewogICAgICB3aWR0aDogMzAwcHg7CiAgICAgIGJveC1zaGFkb3c6IDJweCAycHggOHB4IGdyYXk7CiAgICB9CgogICAgZm9vdGVyIHsKICAgICAgbWFyZ2luLXRvcDogNDBweDsKICAgICAgZm9udC1zaXplOiBzbWFsbDsKICAgIH0KICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgogIDxoMT5XaHkgSSBMb3ZlIENvZGluZzwvaDE+CiAgPGltZyBzcmM9ImltYWdlcy9jb2RpbmcuanBnIiBhbHQ9IkNvZGluZyBvbiBhIGxhcHRvcCI+CiAgPHA+SSBzdGFydGVkIGNvZGluZyB3aGVuIEkgd2FzIGluIG1pZGRsZSBzY2hvb2wuIEkgZW5qb3kgc29sdmluZyBwcm9ibGVtcyBhbmQgY3JlYXRpbmcgZnVuIHdlYnNpdGVzIGFuZCBnYW1lcy48L3A+CiAgPHA+SXQgYWxzbyBoZWxwcyBtZSBsZWFybiBob3cgdGVjaG5vbG9neSB3b3JrcyBhbmQgb3BlbnMgdGhlIGRvb3IgdG8gbWFueSBjYXJlZXIgb3Bwb3J0dW5pdGllcy48L3A+CiAgPHA+Q2hlY2sgb3V0IG1vcmUgYWJvdXQgY29kaW5nIGF0IDxhIGhyZWY9Imh0dHBzOi8vd3d3LmNvZGVjYWRlbXkuY29tLyI+Q29kZWNhZGVteTwvYT4uPC9wPgoKICA8Zm9vdGVyPgogICAgQ29udGFjdCBtZSBhdDogPGEgaHJlZj0ibWFpbHRvOnlvdXJuYW1lQGV4YW1wbGUuY29tIj55b3VybmFtZUBleGFtcGxlLmNvbTwvYT4KICA8L2Zvb3Rlcj4KPC9ib2R5Pgo8L2h0bWw+",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAL4DAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n  <title>My Website</title>\n  <link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n<body>\n  <h1>Welcome to My Web Design Portfolio</h1>\n  <ul>\n    <li><a href=\"chapter4.html\">Chapter 4</a></li>\n    <li><a href=\"chapter5.html\">Chapter 5</a></li>\n    <li><a href=\"project.html\">Group Project</a></li>\n  </ul>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix",
+				"name": "index.html"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAYQEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head><title>Chapter 4</title></head>\n<body>\n  <h1>Chapter 4 Page</h1>\n  <ul>\n    <li><a href=\"chapter4/hop4.html\">HoP 4</a></li>\n  </ul>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix",
+				"name": "chapter4.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAsQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head><title>Chapter 5</title></head>\n<body>\n  <h1>Chapter 5 Page</h1>\n  <ul>\n    <li><a href=\"chapter5/hop1.html\">HoP 1</a></li>\n    <li><a href=\"chapter5/hop2.html\">HoP 2</a></li>\n    <li><a href=\"chapter5/assignment1.html\">Assignment 1</a></li>\n  </ul>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix",
+				"name": "chapter5.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head><title>Group Project</title></head>\n<body>\n  <h1>My Group Project</h1>\n  <p>Here’s where I talk about our awesome project!</p>\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix",
+				"name": "project.html"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>New Form</title>\n</head>\n<body>\n\n  <h1>Form Demo</h1>\n  <form action=\"https://webdevbasics.net/scripts/demo.php\" method=\"post\">\n\n    <!-- a) Text box -->\n    <label for=\"username\">Username:</label>\n    <input type=\"text\" name=\"username\" id=\"username\" maxlength=\"30\"><br><br>\n\n    <!-- b) Radio buttons -->\n    <p>Favorite Day of the Week:</p>\n    <input type=\"radio\" name=\"favday\" value=\"Monday\"> Monday<br>\n    <input type=\"radio\" name=\"favday\" value=\"Wednesday\"> Wednesday<br>\n    <input type=\"radio\" name=\"favday\" value=\"Friday\"> Friday<br>\n\n    <!-- c) Select list -->\n    <label for=\"social\">Favorite Social Network:</label>\n    <select name=\"social\" id=\"social\">\n      <option value=\"Instagram\">Instagram</option>\n      <option value=\"Facebook\">Facebook</option>\n      <option value=\"Twitter\">Twitter</option>\n      <option value=\"Snapchat\">Snapchat</option>\n    </select><br><br>\n\n    <!-- d) Fieldset with legend -->\n    <fieldset>\n      <legend>Shipping Address</legend>\n      Address Line 1: <input type=\"text\" name=\"addr1\"><br>\n      Address Line 2: <input type=\"text\" name=\"addr2\"><br>\n      City: <input type=\"text\" name=\"city\"><br>\n      State: <input type=\"text\" name=\"state\"><br>\n      Zip: <input type=\"text\" name=\"zip\"><br>\n    </fieldset><br>\n\n    <!-- e) Image as a button -->\n    <input type=\"image\" src=\"signup.gif\" alt=\"Sign Up\" width=\"100\" height=\"40\"><br><br>\n\n    <!-- f) Hidden input -->\n    <input type=\"hidden\" name=\"userid\" value=\"12345\">\n\n    <!-- g) Password box -->\n    <label for=\"pword\">Password:</label>\n    <input type=\"password\" name=\"pword\" id=\"pword\"><br><br>\n\n  </form>\n\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 1702,
+				"line_ending": "Unix",
+				"name": "newform.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAApgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Music Survey</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      background-color: #f2f2f2;\n      padding: 20px;\n    }\n    fieldset {\n      background-color: #fff;\n      border: 2px solid #ccc;\n      padding: 15px;\n      margin-bottom: 20px;\n    }\n    legend {\n      font-weight: bold;\n    }\n    label {\n      display: block;\n      margin-top: 10px;\n    }\n  </style>\n</head>\n<body>\n\n  <h1>Music Listening Survey</h1>\n  <form action=\"https://webdevbasics.net/scripts/demo.php\" method=\"post\">\n\n    <label for=\"name\">Your Name:</label>\n    <input type=\"text\" name=\"name\" id=\"name\">\n\n    <label for=\"email\">E-mail Address:</label>\n    <input type=\"email\" name=\"email\" id=\"email\">\n\n    <label for=\"comments\">Why do you listen to music?</label>\n    <textarea name=\"comments\" id=\"comments\" rows=\"3\" cols=\"60\"></textarea>\n\n    <fieldset>\n      <legend>Favorite Type of Music</legend>\n      <input type=\"radio\" name=\"genre\" value=\"Pop\"> Pop<br>\n      <input type=\"radio\" name=\"genre\" value=\"Hip-Hop\"> Hip-Hop<br>\n      <input type=\"radio\" name=\"genre\" value=\"Rock\"> Rock<br>\n    </fieldset>\n\n    <fieldset>\n      <legend>Favorite Artist</legend>\n      <select name=\"artist\" size=\"3\">\n        <option value=\"Taylor Swift\">Taylor Swift</option>\n        <option value=\"Drake\">Drake</option>\n        <option value=\"Beyonce\">Beyoncé</option>\n        <option value=\"The Weeknd\">The Weeknd</option>\n      </select>\n    </fieldset>\n\n    <label for=\"listenDate\">Date you last listened to music:</label>\n    <input type=\"date\" name=\"listenDate\" id=\"listenDate\"><br><br>\n\n    <input type=\"submit\" value=\"Submit Survey\">\n    <input type=\"reset\" value=\"Reset Form\">\n\n  </form>\n\n  <footer>\n    <p>Created by: Your Name</p>\n    <p>Email: <a href=\"mailto:youremail@example.com\">youremail@example.com</a></p>\n  </footer>\n\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 1907,
+				"line_ending": "Unix",
+				"name": "musicform.html"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAcwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ren",
+				"File: Rename File"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"rena",
+				"File: Rename File"
+			],
+			[
+				"rename",
+				"File: Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/macbookpro/Documents/web dev/ch 3/ch 3 assignment/advantage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/macbookpro/Documents/web dev/ch 3/assignment/ex8.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/macbookpro/Documents/web dev/ch 3/ch 3 assignment/advantage2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/macbookpro/Documents/web dev/ch1&2/ch1&2 assignment/band.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1069,
+								1069
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								529,
+								529
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* exercise7.css */",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* yourlastname.html */",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1599,
+								1599
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- newform.html -->",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"auto_name": "footer {",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"auto_name": "a:link {",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1488,
+								1488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1761,
+								1761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 550.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
