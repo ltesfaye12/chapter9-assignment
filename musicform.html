@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Music Survey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        fieldset {
+            margin-bottom: 20px;
+            border: 2px solid #ccc;
+            padding: 10px;
+        }
+        legend {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>Music Survey</legend>
+            Name: <input type="text" name="name"><br><br>
+            Email: <input type="email" name="email"><br><br>
+            Why do you love music?<br>
+            <textarea name="reason" rows="3" cols="60"></textarea><br><br>
+
+            Favorite Genre:<br>
+            <input type="radio" name="genre" value="Pop">Pop<br>
+            <input type="radio" name="genre" value="Rock">Rock<br>
+            <input type="radio" name="genre" value="Jazz">Jazz<br><br>
+
+            Favorite Artist:
+            <select size="3" name="artist">
+                <option>Taylor Swift</option>
+                <option>Drake</option>
+                <option>Billie Eilish</option>
+                <option>The Weeknd</option>
+            </select><br><br>
+
+            Date you listen to music:
+            <input type="date" name="musicdate"><br><br>
+
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </fieldset>
+
+        <p style="text-align:center;">Created by: Your Name<br>Email: you@example.com</p>
+    </form>
+</body>
+</html>

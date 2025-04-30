@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Form</title>
+</head>
+<body>
+    <form action="https://webdevbasics.net/scripts/demo.php" method="post">
+        <!-- Username textbox -->
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" maxlength="30"><br><br>
+
+        <!-- Favorite Day Radio Buttons -->
+        <p>Favorite Day of the Week:</p>
+        <input type="radio" id="monday" name="favday" value="Monday"><label for="monday">Monday</label><br>
+        <input type="radio" id="tuesday" name="favday" value="Tuesday"><label for="tuesday">Tuesday</label><br>
+        <input type="radio" id="wednesday" name="favday" value="Wednesday"><label for="wednesday">Wednesday</label><br>
+        <input type="radio" id="thursday" name="favday" value="Thursday"><label for="thursday">Thursday</label><br>
+        <input type="radio" id="friday" name="favday" value="Friday"><label for="friday">Friday</label><br>
+        <input type="radio" id="saturday" name="favday" value="Saturday"><label for="saturday">Saturday</label><br>
+        <input type="radio" id="sunday" name="favday" value="Sunday"><label for="sunday">Sunday</label><br><br>
+
+        <!-- Select list for social networking -->
+        <label for="social">Favorite Social Network:</label>
+        <select name="social" id="social">
+            <option>Facebook</option>
+            <option>Instagram</option>
+            <option>Snapchat</option>
+            <option>Twitter</option>
+        </select><br><br>
+
+        <!-- Fieldset for Shipping Address -->
+        <fieldset>
+            <legend>Shipping Address</legend>
+            Address Line 1: <input type="text" name="addr1"><br>
+            Address Line 2: <input type="text" name="addr2"><br>
+            City: <input type="text" name="city"><br>
+            State: <input type="text" name="state"><br>
+            Zip: <input type="text" name="zip"><br>
+        </fieldset><br>
+
+        <!-- Image Button -->
+        <input type="image" src="signup.gif" alt="Sign Up"><br><br>
+
+        <!-- Hidden input -->
+        <input type="hidden" name="userid" value="12345">
+
+        <!-- Password input -->
+        <label for="pword">Password:</label>
+        <input type="password" name="pword" id="pword"><br><br>
+    </form>
+</body>
+</html>
